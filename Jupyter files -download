@@ -1,0 +1,9 @@
+#To download all your programming assignments including all files and notebooks, follow these steps:
+
+#1 - Go to the root tree folder for instance: https://hub.coursera-notebooks.org/user/${user_token}/tree/
+#2-  Open the terminal by clicking the + button on the right-hand corner
+#3 - Enter the following command in the terminal: 
+    tar cvfz allassignments.tar.gz *
+#4 - The previous command will create a zip named allassignments containing all your programmings assignment
+#5 - Select allassignments.tar.gz and download
+#6 - Enjoy, don't forget to delete it afterward.
