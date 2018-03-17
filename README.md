@@ -151,7 +151,7 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
   * 45 Questions to test a data scientist on basics of Deep Learning (along with solution) [Link](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * 30 Questions to test a data scientist on Natural Language Processing [Link](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Questions on Stackoverflow: [Link](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
-  * Compare two models: [My collection](https://www.linkedin.com/pulse/ml-2-shujian-liu/)
+
   
 ### - Without Solutions:
   * Over 100 Data Science Interview Questions [Link](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
