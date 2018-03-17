@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# machinelearning-deeplearning
 Research&amp;Course-Projects
 
 # Data Science Resources (Free)
