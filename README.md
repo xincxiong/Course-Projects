@@ -56,8 +56,7 @@ Statistical Learning is the introduction course. It is free to earn a certificat
   * NLTK: http://www.nltk.org/
   * Standord packages: https://nlp.stanford.edu/software/
 
-### - Comments:
-The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
+
 
 ### - More:
 Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL-NLP](https://github.com/brianspiering/awesome-dl4nlp), [Speech and NLP](https://github.com/edobashira/speech-language-processing), [Speech](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers), [RNN](https://github.com/kjw0612/awesome-rnn)
@@ -80,8 +79,7 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
   * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
 
 
-### - Comments:
-Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book. Fast.ai has very practical courses.
+
 
 
 ***  
