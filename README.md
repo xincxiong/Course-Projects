@@ -1,33 +1,14 @@
 # MachineLearningProjects
 Research&amp;Course-Projects
 
-# Data Science Resources (Mostly Free)
-
-I tried to make a balance between comprehension and doability. For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
-
-Hope the list is helpful, especially to whom are not in CS major but interested in data science!
-
-***
-## Table of Contents
-
-* [One Month Plan](#one-month-plan)
-* [Machine Learning](#machine-learning)
-* [Natural Language Processing](#natural-language-processing)
-* [Deep Learning](#deep-learning)
-* [Systems](#systems)
-* [Analytics](#analytics)
-* [Reinforcement Learning](#reinforcement-learning)
-* [Other Courses](#others)
-* [Interviews](#interviews)
-* [Bayesian](#bayesian)
-* [Time series](#time-series)
-* [Quant](#quant)
-* [More Lists](#more)
+# Data Science Resources (Free)
+This repo includes resources that I have used and I am still using for the path of data science. Of course, as you step into the high technology industry, there is no ending. Being a life long learner is the only way out there. 
+I wish it could be helpful for theose who have an interest in Data Science to save much time to learn. 
+Anyone who wants to contribute this repo are always welcome, I am happy to hear back from you.
+if you have any questions, please drop me an email at：xiongxinland@gmail.com
 
 ***
-## One Month Plan:
-
-You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
+## First Stage:
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
@@ -41,9 +22,9 @@ You may find the list overwhelming. Here is my suggestion if you want to have so
   * Coursera Stanford by Andrew Ng: [Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
   * Stanford 229: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599), [Course page](
 http://cs229.stanford.edu/syllabus.html)    
-  * Machine Learning Foundations (機器學習基石): [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
+  * Machine Learning Foundations : [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 , [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
-  * Machine Learning Techniques (機器學習技法): [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
+  * Machine Learning Techniques : [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
   * CMU 701 by Tom Mitchell: [Course page](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
 ### - Textbooks:
@@ -244,3 +225,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 ## More:
   * Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
   * The Open Source Data Science Masters: http://datasciencemasters.org
+  
+***
+
+For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
