@@ -98,8 +98,6 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
   * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
 
-### - Other: 
-  * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
 
 ### - Comments:
 Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book. Fast.ai has very practical courses.
