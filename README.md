@@ -17,6 +17,9 @@ if you have any questions, please drop me an email at：xiongxinland@gmail.com
 
 ## Machine Learning:
 
+### Practical parts
+
+
 ### - Videos:
   * Stanford Statistical Learning: [Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   * Coursera Stanford by Andrew Ng: [Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
