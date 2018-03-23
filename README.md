@@ -14,6 +14,7 @@ if you have any questions, please drop me an email at：xiongxinland@gmail.com
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
+  * Artificial Inteligence:[Link](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
 
 ## Machine Learning:
 
