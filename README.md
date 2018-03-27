@@ -3,7 +3,6 @@ Resources I used  for the path of data science
 
 ***
 
-You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
