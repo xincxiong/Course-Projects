@@ -1,15 +1,7 @@
 # Data-Science-Resources
 Resources I used  for the path of data science
 
-# Data Science Resources (Mostly Free)
-
-The first half is more or less my learning path in the past two years while the second half is my plan for this year. I tried to make a balance between comprehension and doability. For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
-
-Hope the list is helpful, especially to whom are not in CS major but interested in data science!
-
-
 ***
-
 
 You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
@@ -25,9 +17,9 @@ You may find the list overwhelming. Here is my suggestion if you want to have so
   * Coursera Stanford by Andrew Ng: [Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
   * Stanford 229: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599), [Course page](
 http://cs229.stanford.edu/syllabus.html)    
-  * Machine Learning Foundations (機器學習基石): [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
+  * Machine Learning Foundations : [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 , [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
-  * Machine Learning Techniques (機器學習技法): [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
+  * Machine Learning Techniques : [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
   * CMU 701 by Tom Mitchell: [Course page](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
 
 ### - Textbooks:
@@ -78,13 +70,6 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
   * ArXiv for research updates: https://arxiv.org/. I found it the mobile version of Feedly is useful to follow ArXiv. Also, try https://deeplearn.org/ or http://www.arxiv-sanity.com/top.
-
-### - Other: 
-  * LSTM: [My collection](https://www.linkedin.com/pulse/ml-4-shujian-liu/)
-
-### - Comments:
-Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book. Fast.ai has very practical courses.
-
 
 ***
   
@@ -159,10 +144,6 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Over 100 Data Science Interview Questions [Link](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * 20 questions to detect fake data scientists [Link](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
   * Question on Glassdoor: [link](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
-  
-
-
-
 
 ***
 
