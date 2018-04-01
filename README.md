@@ -1,7 +1,9 @@
 # Data-Science-Resources
-Resources I used  for the path of data science
-You are always welcome to drop me an email at: xiongxinland@gmail.com
+Resources I used  for the path of data science.
 
+You are always welcome to drop me an email at: **xiongxinland@gmail.com**
+
+***
 ## Computer Vision
 
 ### - paper：
