@@ -1,5 +1,6 @@
 # Data-Science-Resources
 Resources I used  for the path of data science
+You are always welcome to drop me an email at: xiongxinland@gmail.com
 
 ## Computer Vision
 
@@ -13,6 +14,7 @@ Resources I used  for the path of data science
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
+  * Deeplearning keywords : [link](http://www.wildml.com/)
 
 ## Machine Learning:
 
